@@ -1,2 +1,6 @@
 # hello-world
-a new respository
+
+hi github!
+
+minkle here,i like to be a web developer 
+
